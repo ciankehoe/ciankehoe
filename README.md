@@ -1,22 +1,27 @@
 <h2 align="center"><code>/root/usr/bin/whoami</code></h2>
 
----
 <h3 align="center"><b>About</b></h3>
-<p align="center">Hello there! My name is Cian Kehoe. I enjoy backend software engineering and operations work, with a focus on reliability.</p>
+<p align="center">Hello there! My name is Cian Kehoe. I enjoy backend software engineering and operations work, with a focus on <a href="https://sre.google/books/">reliability</a>.</p>
 <p align="center">Always looking to learn, and especially curious about distributed systems.</p>
-<p align="center">More recently exploring green/energy efficient computing, and program transformation/optimization & analysis. Currently diving into Go and Rust.
-</p>
+<p align="center">Currently diving into <b>Go</b> and <b>Rust</b>.</p>
+&nbsp;
+<p align="center"><i>More recently exploring:</i></p>
+<p align="center">&#9851;&#65039; <a href="https://github.com/stars/ciankehoe/lists/green-computing">Green/energy efficient computing</a> &#127795;</p>
+<p align="center">&#9879;&#65039; <a href="https://www.researchgate.net/publication/220989887_Distillation_Extracting_the_essence_of_programs">Program transformation/optimization & analysis</a> &#128202;</p>
 
-![](images/profile_banner.png)
+
+
+
+<p align="center">
+  <img src="images/profile_banner.png">
+</p>
 
 <h3 align="center"><b>Experience & Involvement</b></h3>
-<p>
-<li align="center">Software Engineer Intern @ <a href="https://hubspot.com">HubSpot</a></li>
-<li align="center">Two-Time Software Engineer & Research Intern @ <a href="https://waltoninstitute.ie/">Walton Institute</a> (formerly <a href="https://en.wikipedia.org/wiki/TSSG">TSSG</a>)</li>
+<p align="center">> Software Engineer Intern @ <a  href="https://hubspot.com">HubSpot</a></p>
+<p align="center">> Software Engineer & Research Intern @ <a  href="https://waltoninstitute.ie/">Walton Institute</a> (formerly <a href="https://en.wikipedia.org/wiki/TSSG">TSSG</a>) x 2</p>
 &nbsp;
-<li align="center">Chairperson | SysAdmin | Vice-Chaiperson | Ordinary Member @ <a href="https://redbrick.dcu.ie">Redbrick</a> </li>
-<li align="center">Organiser @ <a href="https://sistemconf.com">SISTEM 2019 | 20 | 21 | 22</a></li>
-</p>
+<p align="center">> Chairperson | SysAdmin | Vice-Chaiperson | Ordinary Member @ <a  href="https://redbrick.dcu.ie">Redbrick</a> </p>
+<p align="center">> Organiser @ <a  href="https://sistemconf.com">SISTEM 2019 | 20 | 21 | 22</a></p>
 
 ---
 
